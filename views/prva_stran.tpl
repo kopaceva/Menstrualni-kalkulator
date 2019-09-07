@@ -1,0 +1,1 @@
+% rebase('osnovna_stran.tpl')
