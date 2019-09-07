@@ -1,5 +1,5 @@
 # Menstrualni kalkulator
-## Projektna naloga pri predmetu UVP
+### Projektna naloga pri predmetu UVP
 
 V tem repozitoriju so datoteke, potrebne za delovanje spletnega *menstrualnega kalkulatorja*.
 
